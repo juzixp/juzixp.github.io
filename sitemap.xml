@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.juzixp.top/posts/2471.html</loc>
+    
+    <lastmod>2025-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.juzixp.top/posts/16523.html</loc>
     
     <lastmod>2025-04-10</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://blog.juzixp.top/tags/index.html</loc>
     
     <lastmod>2025-04-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.juzixp.top/posts/2471.html</loc>
-    
-    <lastmod>2025-04-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
