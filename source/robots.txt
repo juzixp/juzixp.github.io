@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /go.html?u=
+
+Sitemap: https://blog.juzixp.top/sitemap.xml
+Sitemap: https://blog.juzixp.top/sitemap.txt

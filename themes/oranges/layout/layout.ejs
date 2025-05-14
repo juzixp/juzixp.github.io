@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="<%= config.language %>" color-mode="light">
+
+<%- partial('_partial/header') %>
+
+  <body>
+    <div id="app">
+      <%- partial('_partial/navigation') %>
+
+        <div class="flex-container">
+          <%- body %>
+            <%- partial('_partial/footer') %>
+        </div>
+
+        <div class="tools-bar">
+          <%- partial('_partial/backtotop') %>
+
+            <%- partial('_partial/search') %>
+
+              <%- partial('_partial/colorscheme') %>
+
+                <%- partial('_partial/shares') %>
+        </div>
+    </div>
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    <script>LA.init({ id: "KmKvijP2Xuko6PLW", ck: "KmKvijP2Xuko6PLW", autoTrack: true, hashMode: true, screenRecord: true })</script>
+  </body>
+
+</html>
