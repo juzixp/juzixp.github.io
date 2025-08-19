@@ -1,0 +1,1 @@
+var shareIcon=document.querySelector("#share-icon"),shareContent=document.querySelector(".share-content");function openOrHideShareContent(){shareContent.classList.contains("hidden")?shareContent.classList.remove("hidden"):shareContent.classList.add("hidden")}shareIcon&&shareIcon.addEventListener("click",openOrHideShareContent,!1);
